@@ -1,2 +1,6 @@
-# flutter_firestore_crud
-Flutter Application using firebase firstore
+# flutter_firestore
+
+A new Flutter application to test firebase firestore
+
+## Getting Started
+
